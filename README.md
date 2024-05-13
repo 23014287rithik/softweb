@@ -1,4 +1,4 @@
-# Ex.07 Software Product Company Website
+# Ex.07 Software Product Company WebSite
 ## Date:13.05.2024
 ## NAME:RITHIK
 ## REGISTER NUMBER :212223230171
