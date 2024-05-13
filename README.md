@@ -32,7 +32,8 @@ Publish the website in the given URL.
 
 
 ## PROGRAME;
-
+homepage
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -206,8 +207,9 @@ Publish the website in the given URL.
     </div>
 </body>
 </html>
-
-
+```
+person
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -375,8 +377,9 @@ Publish the website in the given URL.
     </div>
 </body>
 </html>
-
-
+```
+product
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -590,8 +593,9 @@ Publish the website in the given URL.
     </div>
 </body>
 </html>
-
-
+```
+contact us
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -810,7 +814,7 @@ Publish the website in the given URL.
     </div>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![home page1](https://github.com/23014287rithik/softweb/assets/150985832/a30e6e37-7bbc-432a-8e8e-5bf87f771bb1)
 ![persons](https://github.com/23014287rithik/softweb/assets/150985832/e91c84ac-dab0-4aa2-ab13-e6a17ab8bb09)
