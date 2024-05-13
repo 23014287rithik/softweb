@@ -29,8 +29,7 @@ Publish the website in the given URL.
 
 
 
-## PROGRAM:
-home
+## PROGRAME;
 
 <html>
     <head>
@@ -206,8 +205,7 @@ home
 </body>
 </html>
 
-person
-,,,
+
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -375,7 +373,7 @@ person
     </div>
 </body>
 </html>
-product 
+
 
 <html>
     <head>
@@ -590,7 +588,7 @@ product
     </div>
 </body>
 </html>
-contact 
+
 
 <html>
     <head>
