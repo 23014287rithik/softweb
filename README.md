@@ -1,5 +1,7 @@
 # Ex.07 Software Product Company Website
-## Date:
+## Date:13.05.2024
+## NAME:RITHIK
+## REGISTER NUMBER :212223230171
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
 
